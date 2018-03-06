@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorBoardGameConsoleApp", "DecoratorBoardGameConsoleApp\DecoratorBoardGameConsoleApp.csproj", "{B7D6F5A8-848F-47AD-A45A-20D22678B0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D6F5A8-848F-47AD-A45A-20D22678B0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D6F5A8-848F-47AD-A45A-20D22678B0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D6F5A8-848F-47AD-A45A-20D22678B0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D6F5A8-848F-47AD-A45A-20D22678B0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DD1EA4-5B33-4496-83BE-16010F57634D}
+	EndGlobalSection
+EndGlobal
